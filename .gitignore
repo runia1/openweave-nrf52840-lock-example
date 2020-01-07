@@ -1,4 +1,5 @@
 build/
 .idea/
-.vscode
+.vscode/
+.pio/
 env_tools/
